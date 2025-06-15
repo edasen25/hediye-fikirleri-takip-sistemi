@@ -1,0 +1,24 @@
+# HEDİYE FİKİRLERİ TAKİP SİSTEMİ
+
+Bu proje, kullanıcıların sevdikleri kişiler için düşündükleri hediye fikirlerini kaydedip yönetebileceği bir web tabanlı uygulamadır. 
+
+# KULLANILAN TEKNOLOJİLER
+
+Uygulama PHP, MySQL ve Bootstrap kullanılarak geliştirilmiştir.
+
+# HEDİYE TAKİP SİSTEMİ ÖZELLİKLERİ
+
+ Kullanıcı kaydı
+ Şifreli giriş ve oturum yönetimi 
+ Hediye fikirleri ekleme
+ Kayıtlı fikirleri listeleme
+ Fikirleri düzenleme
+ Fikirleri silme
+ Güvenli şifreleme 
+Bootstrap ile şık arayüz
+
+# HEDİYE TAKİP SİSTEMİNİN MANTIĞI
+
+Her kullanıcı kendi hesabında sevdiklerine almak istediği ve almayı düşündüğü hediyeleri ekleyebilir.Ya da almak istediği veya almayı düşündüğü fikirleri silebilir,düzenleyebilir.
+
+
