@@ -18,14 +18,14 @@ Uygulama PHP, MySQL ve Bootstrap kullanılarak geliştirilmiştir.
 
 # HEDİYE TAKİP SİSTEMİ ÖZELLİKLERİ
 
- Kullanıcı kaydı
- Şifreli giriş ve oturum yönetimi 
- Hediye fikirleri ekleme
- Kayıtlı fikirleri listeleme
- Fikirleri düzenleme
- Fikirleri silme
- Güvenli şifreleme 
-Bootstrap ile şık arayüz
+ -Kullanıcı kaydı
+ -Şifreli giriş ve oturum yönetimi 
+ -Hediye fikirleri ekleme
+ -Kayıtlı fikirleri listeleme
+ -Fikirleri düzenleme
+ -Fikirleri silme
+ -Güvenli şifreleme 
+ -Bootstrap ile şık arayüz
 
 # HEDİYE TAKİP SİSTEMİNİN MANTIĞI
 
