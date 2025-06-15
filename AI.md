@@ -12,7 +12,6 @@ Bu projede, OpenAI tarafından geliştirilen ChatGPT teknolojisinden yararlanıl
 
 $user_id = $_SESSION['user_id'];
 $id = $_GET['id'];
-
 -----
 
 ## 2.Soru:
