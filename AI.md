@@ -13,7 +13,7 @@ Bu projede, OpenAI tarafından geliştirilen ChatGPT teknolojisinden yararlanıl
 **```php
 $user_id = $_SESSION['user_id'];
 $id = $_GET['id'];
-**
+
 
 ## 2.Soru:
 **Projeme Bootstrap eklemek istiyorum. Bootstrap 5'in en güncel sürümünü HTML dosyama nasıl ekleyebilirim?**
