@@ -10,7 +10,6 @@ Bu projede, OpenAI tarafından geliştirilen ChatGPT teknolojisinden yararlanıl
 ### ChatGPT Yanıtı:
 **Session içindeki `user_id` değerini ve URL parametresi `id`'yi almak için :**
 
-**```php
 $user_id = $_SESSION['user_id'];
 $id = $_GET['id'];
 
