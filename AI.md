@@ -13,6 +13,8 @@ Session içindeki `user_id` değerini şu şekilde alabilirsiniz:
 ```php
 $user_id = $_SESSION['user_id'];
 
+URL parametresi `id`'yi almak için ise:
+
 ```php
 $id = $_GET['id'];
 
