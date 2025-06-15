@@ -10,11 +10,11 @@ Bu projede, OpenAI tarafından geliştirilen ChatGPT teknolojisinden yararlanıl
 ### ChatGPT Yanıtı:
 **Session içindeki `user_id` değerini ve URL parametresi `id`'yi almak için :**
 
-** ```php
+ **```php
 $user_id = $_SESSION['user_id'];
 $id = $_GET['id'];
 **
-
+----
 ## 2.Soru:
 **Projeme Bootstrap eklemek istiyorum. Bootstrap 5'in en güncel sürümünü HTML dosyama nasıl ekleyebilirim?**
 
