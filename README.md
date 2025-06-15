@@ -2,6 +2,10 @@
 
 Bu proje, kullanıcıların sevdikleri kişiler için düşündükleri hediye fikirlerini kaydedip yönetebileceği bir web tabanlı uygulamadır. 
 
+# HEDİYE FİKİRLERİ TAKİP SİSTEMİ TANITIM VİDEOSU
+
+YOTUBE TANITIM VİDEOSU LİNKİ: (https://www.youtube.com/watch?v=Zxix0q11UsM)
+
 # HEDİYE FİKİRLERİ TAKİP SİSTEMİNDEN GÖRSELLER 
 
 ![Image](https://github.com/user-attachments/assets/32317a50-eb50-4287-bd42-7b07d3034667)
